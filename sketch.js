@@ -8,6 +8,7 @@ var pont_animacio;
 var kilott_ellen_anim;
 var mozgasv;
 
+
 function setup() {
   createCanvas(705, 607.5);
   jatekos = new Jatekos();
@@ -46,6 +47,8 @@ function setup() {
   }
 
 }
+
+ x
 
 function draw() {
   background(92, 136, 252);
